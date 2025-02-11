@@ -1,0 +1,7 @@
+<library path="lib/libsimple_global_planner">
+  <class name="simple_global_planner/SimpleGlobalPlanner"
+         type="simple_global_planner::SimpleGlobalPlanner"
+         base_class_type="nav_core::BaseGlobalPlanner">
+    <description>A simple global planner plugin that returns a straight-line path</description>
+  </class>
+</library>
